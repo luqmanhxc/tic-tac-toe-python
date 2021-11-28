@@ -1,6 +1,6 @@
 # About 
 
-This is a simple tic-tac-toe game made in Python to practice functions.
+This is a simple tic-tac-toe game made in Python to practice functions. Made based on Jose Portilla's Python course.
 
 ## Installation
 
